@@ -1,0 +1,15 @@
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/bin/Debug/net7.0/Quiz
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/bin/Debug/net7.0/Quiz.deps.json
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/bin/Debug/net7.0/Quiz.runtimeconfig.json
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/bin/Debug/net7.0/Quiz.dll
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/bin/Debug/net7.0/Quiz.pdb
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.csproj.AssemblyReference.cache
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfoInputs.cache
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfo.cs
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.dll
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/refint/Quiz.dll
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.pdb
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/Quiz.genruntimeconfig.cache
+/Users/gray/Desktop/General Knowlede Quiz/Quiz/Quiz/obj/Debug/net7.0/ref/Quiz.dll
